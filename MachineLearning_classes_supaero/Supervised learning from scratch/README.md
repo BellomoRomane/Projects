@@ -1,5 +1,7 @@
 # Supervised Learning Models Project
 
+*Carried out in February 2023*
+
 This project focuses on implementing and evaluating various supervised learning models for a given machine learning task. The notebook contains the code and analysis for training and evaluating supervised learning models on a dataset. The primary objectives of this project are to compare the performance of different algorithms, select the best-performing model, and analyze its behavior. The main task having been evaluated was the conception a machine learning algorithm from scratch, its efficency, and if it worked.
 
 ## Overview

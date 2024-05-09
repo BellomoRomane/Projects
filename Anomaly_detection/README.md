@@ -1,5 +1,7 @@
 # Anomaly Detection Project
 
+*Carried out in january 2024*
+
 This project focuses on anomaly detection using machine learning techniques. The notebook contains the code and analysis for detecting anomalies in a given dataset. The primary objectives of this project are to identify unusual patterns or outliers in the data that deviate from normal behavior and may indicate potential anomalies or anomalies.  
 
 The aim of this project is to enlight what I've leant during J. Sprauel *(Data Scientist at Thales Alenia Space, Toulouse)* classes.

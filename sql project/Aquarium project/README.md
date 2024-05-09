@@ -1,5 +1,7 @@
 # SQL Project
 
+*Carried out in january 2021*
+
 During my studies, I had a project consisting of creating a database on one subject (I choose an aquarium), creating the tables of the database and showing different queries following some instructions.
 
 In this README, here are the instructions I had to follow and the queries associated :

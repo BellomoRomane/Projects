@@ -1,5 +1,7 @@
 # SQL Murder Mystery
 
+*Carried out in may 2024*
+
 While looking for databases to work on, I found the SQL Murder Mystery database and problem.
 The aim was to found the murderer of a case by looking through the tables, finding the witnesses and the different charasteristics that identify the suspect.
 

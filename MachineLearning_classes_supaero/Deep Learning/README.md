@@ -1,5 +1,7 @@
 # Deep Learning Project
 
+*Carried out in April 2023*
+
 This project focuses on implementing a deep learning model from scratch for a specific task. The notebook contains the code and analysis for training and evaluating the deep learning model. The primary objective of this project is to develop and assess the performance of a deep learning architecture for solving the given task.
 
 ## Overview
